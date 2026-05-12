@@ -1,1 +1,11 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Schedule</title>
+</head>
+<body>
+    <h1>Race Schedule</h1>
+  <a href="index.html">Home</a>
+</body>
+</html>
